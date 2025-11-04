@@ -6,8 +6,7 @@ A **personal introduction app** built with **React Native** and **Expo**, showca
 
 ## 📸 Screenshot
 
-![App Screenshot](![PersonalIntroductionApp](https://github.com/user-attachments/assets/3dfffbc2-8820-45d5-82b4-f7b8721dcaa6)
-)
+![App Screenshoot](assets/screenshot.png)
 
 > Replace the path with the actual screenshot of your app.
 
