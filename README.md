@@ -1,33 +1,47 @@
-# PersonalIntroductionApp
+# Personal Introduction App
 
-A **personal introduction app** built with **React Native** and **Expo**, showcasing your profile, skills, and hobbies in a professional, clean design.
+![App Screenshot](assets/ProfilePicture.jpeg)
 
----
-
-## 📸 Screenshot
-
-![App Screenshoot](assets/screenshot.png)
-
-> Replace the path with the actual screenshot of your app.
-
----
-
-## 🔹 Features
-
-- Display profile picture, name, and major/year  
-- Skills & Interests section  
-- Goals & Hobbies section  
-- Professional, clean UI with proper spacing and colors  
-- Fully responsive on mobile devices  
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
-## 💻 Installation & Setup
+## Overview
+The **Personal Introduction App** is a sleek, scrollable React Native application designed to showcase personal profiles in a visually appealing and professional format.  
+It provides a clear layout for displaying a profile image, educational background, skills, hobbies, and goals. Perfect for personal branding, portfolio showcases, or as a starter template for React Native developers.
 
-Follow these steps to get the project running locally:
+---
 
-1. **Clone the repository**
+## Features
+- 📱 **Responsive Design**: Works seamlessly on mobile devices with scrollable content.
+- 🖼️ **Profile Image Integration**: Displays a rounded profile picture with shadow and border for emphasis.
+- 📝 **Professional Layout**: Separate sections for Skills & Interests, and Goals & Hobbies.
+- 🎨 **Modern Styling**: Uses soft gradients, card-like sections, and shadows for a polished appearance.
+- ⚡ **Lightweight & Modular**: Easy to customize and expand.
 
+---
+
+## Technologies Used
+- **React Native** – Core framework for mobile app development.
+- **Expo** – Development environment for easier build, test, and deployment.
+- **JavaScript (ES6+)** – Logic and UI implementation.
+- **CSS-in-JS (StyleSheet)** – Component-level styling for React Native.
+
+---
+
+## Installation
+
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/PersonalIntroductionApp.git
-cd PersonalIntroductionApp
+git clone https://github.com/your-username/personal-introduction-app.git
+cd personal-introduction-app
