@@ -1,6 +1,6 @@
 # Personal Introduction App
 
-![App Screenshot](assets/ProfilePicture.jpeg)
+![App Screenshot](assets/PersonalIndtroductionApp.jpeg)
 
 ## Table of Contents
 - [Overview](#overview)
