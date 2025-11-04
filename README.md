@@ -1,6 +1,6 @@
 # Personal Introduction App
 
-![App Screenshot](assets/PersonalIndtroductionApp.jpeg)
+![App Screenshot](https://github.com/almamuzliukaj/PersonalIntroductionApp/blob/main/assets/PersonalIntroductionApp.jpeg?raw=true)
 
 ## Table of Contents
 - [Overview](#overview)
