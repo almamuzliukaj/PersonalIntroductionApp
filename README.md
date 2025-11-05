@@ -104,7 +104,7 @@ From there, you can:
 
 **Alma Muzliukaj**  
 💼 *Software Engineering Student*  
-🌐 [GitHub Profile](https://github.com/almamuzliukaj)  
-📧 [alma.muzliukaj@example.com](mailto:almamuzliukaj@gmail.com)
+🌐 [https://github.com/almamuzliukaj](https://github.com/almamuzliukaj)  
+📧 [almamuzliukaj@gmail.com](mailto:almamuzliukaj@gmail.com)
 
 ---
