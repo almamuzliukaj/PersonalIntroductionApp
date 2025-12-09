@@ -29,11 +29,15 @@ This project emphasizes:
 
 ## 🖼️ Screenshot
 
+### 📸 App Screenshots
+
 <p align="center">
-  <img src="assets/PersonalIntroductionApp.jpeg" alt="Personal Introduction App Screenshot" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="assets/PersonalINntruductionApp.jpeg" width="220" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/contact-info-PIA.jpeg" width="220" style="border-radius:12px;" />
 </p>
 
-> Screenshot of the app showing profile, skills, and hobbies.
+> Screens showing the personal introduction, skills, hobbies, and contact information.
+
 
 
 ---
